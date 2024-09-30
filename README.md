@@ -2,7 +2,7 @@
 
 ![Demo App](/public/screenshot-for-readme-1.png)
 ![Demo App](/public/screenshot-for-readme-2.png)
-![Demo App](/public/Profile.png)
+
 
 ### This is a free admin dashboard ui kit built with:
 
